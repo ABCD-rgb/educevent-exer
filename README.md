@@ -8,7 +8,7 @@
 #### (3) add a `<nickname>.txt` file and input the following details:
 > (3.1) Full name  
 > (3.2) Name of sponsor  
-> (3.3) Batch in the University
+> (3.3) Batch in the University  
 > (3.4) Favorite CMSC Subject  
 > (3.5) Hobby
 #### (4) push it to the remote repository
